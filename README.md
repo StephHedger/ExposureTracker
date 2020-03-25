@@ -1,0 +1,2 @@
+# ExposureTracker
+Right now, a valuable piece of information we could add to the epidemiological knowledge body is who has been in contact with who. If we could create an app that people could instal their phones that would report their locations to a graph database we could build a picture of transmission paths. Once we have that information it would be a simple matter to alert app users if they've potentially been exposed and allow us to share information and learning's with medical professionals. 
