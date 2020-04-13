@@ -1,4 +1,4 @@
-PersonID,Latitude,Longitude ,DateTime,LatitudeGrouping,LongitudeGrouping,TimeHour
+PersonID,Latitude,Longitude,DateTime,LatitudeGrouping,LongitudeGrouping,TimeHour
 1,-37.842836,144.961897,2020-04-11 8:28,-136235,521862,2020-04-11 8:00
 1,-37.831744,144.9558,2020-04-11 13:28,-136195,521840,2020-04-11 13:00
 2,-37.842836,144.961897,2020-04-11 7:28,-136235,521862,2020-04-11 7:00
